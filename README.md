@@ -17,6 +17,7 @@ Name | Availability | Category |  Description
 [VSCode](https://code.visualstudio.com) | Desktop App | General Coding | An extensible and reliable code editor.
 [ImageOptim](https://imageoptim.com/mac) | Mac Only | Image Optimisation | A seamless way to optimise images on your Mac.
 [TinyPNG](https://tinypng.com) | Web Service | Image Optimisation | The best optimisation tool in the web—and it's free.
+[animateText](https://github.com/happycrappie/animateText) | Code | JS Lib | A small function to animate each character of a text using CSS Keyframes.
 
 
 ## Productivity
