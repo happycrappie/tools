@@ -1,11 +1,13 @@
 # Tools of Trade
-🛠 Curation of tools for design, code, productivity and other stuff.
+:wrench: Curation of tools for design, code, productivity and other stuff.
 
 ## **Summary**
 1. [Code](#code)
 2. [Productivity](#productivity)
 2. [Design](#design)
 3. [Health](#health)
+
+----
 
 ## Code
 
@@ -14,9 +16,8 @@ Name | Availability | Category |  Description
 [Webflow](https://webflow.com/?rfsn=2503412.eb9c8e) | Desktop Web App | Visual Development | Create stunning websites without writing a single line of code.
 [VSCode](https://code.visualstudio.com) | Desktop App | General Coding | An extensible and reliable code editor.
 [ImageOptim](https://imageoptim.com/mac) | Mac Only | Image Optimisation | A seamless way to optimise images on your Mac.
-[TinyPNG] | Web Service | Image Optimisation | The best optimisation tool in the web—and it's free.
+[TinyPNG](https://tinypng.com) | Web Service | Image Optimisation | The best optimisation tool in the web—and it's free.
 
-----
 
 ## Productivity
 
@@ -30,7 +31,6 @@ Name | Availability | Category |  Description
 [Timing](http://timingapp.com) | Mac Only | Time Management | Timing is a privacy-focused app that tracks the time you spend on apps and websites. You can attribute them to projects, export reports and much more.
 [RescueTime](http://rescuetime.com) | All Platforms | Time Management | RescueTime tracks your apps and websites and defines a productivity score.
 
-----
 
 ## Design
 
@@ -44,4 +44,13 @@ Name | Availability | Category |  Description
 
 Name | Availability | Category | Description
 ---- | ------------ | -------- | ------------
-Fitbod | iOS Only | Gym & Workout | Whether you train on a gym, in your living room or at the park, Fitbod has the best workout list of all apps. It tracks muscle recovery as well.
+[Fitbod](http://fitbod.me) | iOS Only | Gym & Workout | Whether you train on a gym, in your living room or at the park, Fitbod has the best workout list of all apps. It tracks muscle recovery as well.
+
+
+---
+
+## License
+
+[MIT](https://github.com/happycrappie/tools/blob/master/LICENSE)
+
+Copyright © 2019-present, Eryc da Silva.
