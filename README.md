@@ -6,6 +6,7 @@
 2. [Productivity](#productivity)
 2. [Design](#design)
 3. [Health](#health)
+4. [Content](#content)
 
 ----
 
@@ -53,6 +54,14 @@ Name | Availability | Category |  Description
 Name | Availability | Category | Description
 ---- | ------------ | -------- | ------------
 [Fitbod](http://fitbod.me) | iOS Only | Gym & Workout | Whether you train on a gym, in your living room or at the park, Fitbod has the best workout list of all apps. It tracks muscle recovery as well.
+
+## Content
+
+Name | Availability | Category | Description
+---- | ------------ | -------- | ------------
+[Castro](http://supertop.co/castro/) | iOS Only | Podcasts | Meet the easiest way to queue podcasts, listen to them and even share them.
+[Scribd](https://www.scribd.com/g/202v64) | Mobile & Web | Audiobooks | Cheapest subscription for books, audiobooks, magazines and articles.
+
 
 
 ---
