@@ -38,6 +38,7 @@ Name | Availability | Category |  Description
 [One Switch](https://fireball.studio/oneswitch/) | Mac Only | System Management | Simpler way to control some of your Mac's settings, such as enabling Bluetooth earphones, keeping the Mac awake, changing from light to dark mode, etc.
 [Self Control](https://selfcontrolapp.com) | Mac Only | Content Blocker | Block unwanted websites and apps for a temporary amount of time, so you can focus on your tasks.
 [The Clock](https://apps.apple.com/br/app/the-clock/id488764545?l=en&mt=12) | Mac Only | Productivity | Keep up with different timezones, accessible from your toolbar.
+[Whereby](http://whereby.com) | Web App | Communication | A quick way to jump on a meeting.
 
 
 ## Design
